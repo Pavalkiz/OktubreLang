@@ -1,0 +1,10 @@
+swift-ins-(install.file) swift-del-(delete.file)
+compile(compile.file)
+convert(convert.)f{file}t{exe}
+format(format.zip) //Format command can format only folders (.fld) and zipps (.zip)
+plugin(example.dll)swift-a
+swift-a
+HUB example.dll
+C>yes
+
+
